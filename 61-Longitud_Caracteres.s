@@ -1,3 +1,6 @@
+# Objetivo: Dar una versión en ensamblador de MIPS de int length(char *str), que devuelve la longitud de un
+# string.
+
 .data
 nl: .asciiz "\n"
 
