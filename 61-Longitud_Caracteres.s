@@ -7,7 +7,7 @@ nl: .asciiz "\n"
 .text
 .globl main
 main:
-    lw $a0, 0($a1)              # Carga el argmento string
+    lw $a0, 0($a1)              # Carga el argumento string
 
 loop:
     lb $s0, 0($a0)              # Carga el primer byte del string en $s0
