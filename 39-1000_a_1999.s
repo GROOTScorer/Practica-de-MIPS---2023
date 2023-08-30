@@ -3,7 +3,7 @@
 
 # En C:
 
-#include <stdio.h>
+# #include <stdio.h>
 
 # int main(void) {
 #     // imprimir del 1000 al 1999 de a 5 por línea
